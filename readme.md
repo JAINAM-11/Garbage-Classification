@@ -32,7 +32,7 @@ data/
 ```
 
 ### Step 4 – Model
-- Custom CNN neural network built from scratch
+- Custom CNN (Convolutional Neural Network) neural network built from scratch
 - GPU accelerated training using CUDA
 
 ### Step 5 – Output
